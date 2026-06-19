@@ -74,7 +74,7 @@ docs/
 
 ### Kezelőfelület
 
-![Dashboard](docs/Kepernyokepek/dashboard.png)
+![Dashboard](docs/screenshots/dashboard.png)
 
 ## Ismert korlátozások
 
